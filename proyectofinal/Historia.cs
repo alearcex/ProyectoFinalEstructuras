@@ -55,7 +55,7 @@ namespace arbolbinario
             Console.WriteLine("\t \t \t \t VAMOS A BUSCAR UN TESORO\n");
             Console.ResetColor();
             Console.WriteLine(
-                "\t En algún lugar del mundo, en un sitio lejano y envuelto en misterio, se encuentra el peculiar \n" +
+                "En algún lugar del mundo, en un sitio lejano y envuelto en misterio, se encuentra el peculiar \n" +
                 "Bosque Frondoso. Este bosque es famoso por sus historias mágicas y secretos ancestrales que han  \n" +
                 "cautivado la imaginación de las personas durante siglos. Las leyendas hablan de creaturas místicas, \n" +
                 "escenarios naturales increíbles, senderos que cambian de forma... pero hay una cosa que resalta entre \n" +
@@ -63,13 +63,13 @@ namespace arbolbinario
                 "historia, pero ninguno ha logrado regresarlo al mundo conocido. A través de los años, las historias \n" +
                 "sobre aventureros se adentran en este lugar buscando el tesoro no paran de crecer, llenas de valentía \n" +
                 "y algunas de desgracia. \n" +
-                "\t Los que se atreven a adentrarse en él son frecuentemente objeto de críticas en Villa Frondesa, pueblo\n" +
+                "Los que se atreven a adentrarse en él son frecuentemente objeto de críticas en Villa Frondesa, pueblo\n" +
                 "más cercano al bosque, porque aquí han sido testigos en primera persona de locales y gente de \n" +
                 "otros pueblos a quienes se ha visto entrar al bosque pero nunca salir. Se les considera avariciosos,  \n" +
                 "temerarios por intentar desentrañar un misterio que ha desafiado a tantas generaciones sin éxito. \n" +
                 "Habitantes del pueblo, con una mezcla de escepticismo y desdén, se burlan de aquellos que buscan el \n" +
                 "tesoro, llamándolos soñadores imprudentes que arriesgan sus vidas por un mito.\n" +
-                "\t Desde su infancia, el Finn, un joven aventurero del pueblo había escuchado estas historias y sobre todo \n" +
+                "Desde su infancia, el Finn, un joven aventurero del pueblo había escuchado estas historias y sobre todo \n" +
                 "comentarios negativos sobre el bosque. En lugar de desanimarlo, estas lo que escuchaba únicamente hacía \n" +
                 "que creciera en él su esíritu curioso y la imaginación de sus sueños de adentrarse a explorar en el bosque. \n" +
                 "pues siempre ha deseado ser él quien se adentrase en el bosque y regrese con el tesoro que tantos \n" +
@@ -82,7 +82,7 @@ namespace arbolbinario
             Console.ReadKey();
             Console.Clear();
             Console.WriteLine(
-                "\t Con gran determinación, Finn emprendió su camino hacia el Bosque Frondoso. A medida que adentraba entre, \n" +
+                "Con gran determinación, Finn emprendió su camino hacia el Bosque Frondoso. A medida que adentraba entre, \n" +
                 "sus árboles, el ambiente se volvía más denso. Una niebla comenzaba a envolverlo, haciendo que su visibilidad  \n" +
                 "disminuyera casi por completo. Los susurros del viento resonaban a su alrededor, como si el bosque le hablara \n" +
                 "en un idioma propio. Cada crujido de las ramas y cada sombra que se movía entre los árboles aumentaba su \n" +
